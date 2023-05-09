@@ -9,10 +9,12 @@ class CapgeminiRecruitment extends CyberSuccessSkills
 {
 	public static void main(String[] args) 
 	{
+	System.out.println("Cyber");
 		CapgeminiRecruitment cs = new CapgeminiRecruitment();
 		cs.JavaDev();
 		cs.SoftwearTesting();
 		cs.PythonDev();
+		
 	}
 }
 /*
